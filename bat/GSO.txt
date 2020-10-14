@@ -1,0 +1,31 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 2485-01E3
+
+ Pasta de C:\Program Files
+
+29/09/2020  21:27    <DIR>          .
+29/09/2020  21:27    <DIR>          ..
+29/09/2020  20:58    <DIR>          Common Files
+29/09/2020  21:26    <DIR>          dotnet
+29/09/2020  21:28    <DIR>          Git
+29/09/2020  20:21    <DIR>          Google
+29/09/2020  20:15    <DIR>          Intel
+15/09/2020  14:12    <DIR>          Internet Explorer
+05/10/2020  19:24    <DIR>          Microsoft Office
+29/09/2020  20:49    <DIR>          Microsoft Office 15
+07/12/2019  06:14    <DIR>          ModifiableWindowsApps
+09/09/2020  10:15    <DIR>          MSBuild
+29/09/2020  20:11    <DIR>          Realtek
+09/09/2020  10:15    <DIR>          Reference Assemblies
+29/09/2020  20:13    <DIR>          Synaptics
+08/08/2020  05:24    <DIR>          Windows Mail
+15/09/2020  14:12    <DIR>          Windows Media Player
+07/12/2019  11:39    <DIR>          Windows Multimedia Platform
+29/09/2020  19:47    <DIR>          Windows NT
+15/09/2020  14:12    <DIR>          Windows Photo Viewer
+07/12/2019  11:39    <DIR>          Windows Portable Devices
+07/12/2019  06:31    <DIR>          Windows Security
+07/12/2019  06:31    <DIR>          WindowsPowerShell
+29/09/2020  21:14    <DIR>          WinRAR
+               0 arquivo(s)              0 bytes
+              24 pasta(s)   481.571.311.616 bytes dispon°veis
